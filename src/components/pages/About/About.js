@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Pharma from '../../media/pharma.svg';
+import Pharma from '../../media/food.jpg';
 import './About.scss';
 
 export const About = () => {

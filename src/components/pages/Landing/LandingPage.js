@@ -1,5 +1,5 @@
 import React from 'react';
-import pizzaImage from "../../media/Rectangle 400.svg";
+import pizzaImage from "../../media/Pizza.jpg";
 import vehicleImage from "../../media/Screenshot_669 1.png";
 import './Landing.scss';
 
